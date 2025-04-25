@@ -1,11 +1,7 @@
 API de Consertos de Carros
 Esta API foi desenvolvida para gerenciar consertos de carros, oferecendo operações CRUD (Criar, Ler, Atualizar, Deletar) para os consertos.
 Endpoints
-1. Login
-POST /login
-Realiza o login do usuário e retorna um token JWT em caso de sucesso.
-
-2. Consertos
+Consertos
 POST /consertos
 Cria um novo conserto.
 
